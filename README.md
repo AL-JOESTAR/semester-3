@@ -3,3 +3,5 @@
 
 * oop
 * array
+* method
+* function
