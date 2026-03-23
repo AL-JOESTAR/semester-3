@@ -6,3 +6,4 @@
 * method
 * function
 * dashboard power bi
+* fundamentals
