@@ -7,3 +7,6 @@
 * function
 * dashboard power bi
 * fundamentals
+* class
+* autothentication
+* authorization
