@@ -12,3 +12,4 @@
 * authorization
 * eloquent orm
 * get,view, post
+* put, delete, edit
