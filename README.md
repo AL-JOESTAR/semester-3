@@ -10,3 +10,5 @@
 * class
 * autothentication
 * authorization
+* eloquent orm
+* get,view, post
