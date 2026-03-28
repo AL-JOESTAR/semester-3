@@ -14,3 +14,4 @@
 * get,view, post
 * put, delete, edit
 * html, css fundamental
+* js basic
