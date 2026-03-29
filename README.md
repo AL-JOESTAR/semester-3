@@ -15,3 +15,5 @@
 * put, delete, edit
 * html, css fundamental
 * js basic
+* machine learning
+* Models
