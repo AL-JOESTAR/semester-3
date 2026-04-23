@@ -18,3 +18,5 @@
 * machine learning
 * Models
 * controller
+
+- Javascript (doom, async, await)
